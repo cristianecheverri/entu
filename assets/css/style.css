@@ -1029,7 +1029,7 @@ section {
 }
 
 .specials .details p {
-  color: #aaaaaa;
+  color: black;
 }
 
 .specials .details p:last-child {
@@ -1477,7 +1477,7 @@ section {
 
 .contact .php-email-form .error-message {
   display: none;
-  color: #fff;
+  color: black;
   background: #ed3c0d;
   text-align: center;
   padding: 15px;
@@ -1486,7 +1486,7 @@ section {
 
 .contact .php-email-form .sent-message {
   display: none;
-  color: #fff;
+  color: black;
   background: #18d26e;
   text-align: center;
   padding: 15px;
@@ -1518,7 +1518,7 @@ section {
   font-size: 14px;
   background: white;
   border-color: #625b4b;
-  color: white;
+  color: black;
 }
 
 .contact .php-email-form input::-webkit-input-placeholder, .contact .php-email-form textarea::-webkit-input-placeholder {
